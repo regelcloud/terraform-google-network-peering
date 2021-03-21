@@ -6,7 +6,7 @@ variable "network1_id" {
   
 }
 
-variable "network1_id" {
+variable "network2_id" {
   
 }
 
